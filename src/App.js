@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a href="https://bvm-it.tk/">Bui Van Minh</a>
+        <h1>The project will be updated soon</h1>
+        <a href="https://www.facebook.com/Van.Minh.Nekk">Bui Van Minh</a>
       </header>
     </div>
   )
