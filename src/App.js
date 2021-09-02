@@ -24,6 +24,12 @@ function App() {
           }}
         />
         <Route
+          path="/test"
+          component={() => {
+            return <h1>Đây là trang test</h1>
+          }}
+        />
+        <Route
           component={() => {
             return <h1>Có cái nịt trang này ko tồn tại</h1>
           }}
